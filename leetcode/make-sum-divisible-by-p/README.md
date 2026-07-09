@@ -5,13 +5,13 @@ Solved by @hx9sk4lhew
 - Platform: leetcode
 - Difficulty: Medium
 - Language: cpp
-- Solved at: 2026-07-09T11:34:09.670Z
+- Solved at: 2026-07-09T11:38:52.572Z
 - Preptin problem: https://preptin.ai/problems/make-sum-divisible-by-p
 - Preptin profile: https://preptin.ai/u/hx9sk4lhew
 
 ## Approach
 
-The solution uses prefix sums modulo p and a hashmap to find the shortest subarray whose removal makes the sum of the array divisible by p. It calculates cumulative sums modulo p and uses the hashmap to track indices of prefix sums to find a complement that forms a subarray with the required remainder.
+The solution uses prefix sums and a hashmap to find the smallest subarray with a sum divisible by p. It calculates the total sum modulo p, then uses prefix sums modulo p and a map to find the shortest subarray to remove to make the entire array's sum divisible by p.
 
 ## Complexity
 
@@ -21,10 +21,10 @@ The solution uses prefix sums modulo p and a hashmap to find the shortest subarr
 ## Signals
 
 - Prefix Sum
-- hash map usage
-- modular arithmetic
-- sliding window pattern
-- Number Theory
 - Sliding Window
+- hashing
+- modular-arithmetic
+- Number Theory
+- Hash Maps
 - prefix sums
-- hash table
+- array manipulation
