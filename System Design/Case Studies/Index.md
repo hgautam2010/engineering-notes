@@ -1,0 +1,37 @@
+# System Design Case Studies
+
+Use this folder for complete system design walkthroughs.
+
+## Starter Case Studies
+
+- [[System Design/Case Studies/URL Shortener|URL Shortener]]
+- [[System Design/Case Studies/News Feed|News Feed]]
+- [[System Design/Case Studies/Chat System|Chat System]]
+- [[System Design/Case Studies/Notification System|Notification System]]
+- [[System Design/Case Studies/Search Autocomplete|Search Autocomplete]]
+- [[System Design/Case Studies/Video Streaming|Video Streaming]]
+- [[System Design/Case Studies/Distributed Cache|Distributed Cache]]
+- [[System Design/Case Studies/File Storage Service|File Storage Service]]
+- [[System Design/Case Studies/Ride Sharing Service|Ride Sharing Service]]
+- [[System Design/Case Studies/Payment System|Payment System]]
+- [[System Design/Case Studies/Rate Limiter|Rate Limiter]]
+- [[System Design/Case Studies/Metrics Platform|Metrics Platform]]
+- [[System Design/Case Studies/Logging and Tracing Platform|Logging and Tracing Platform]]
+- [[System Design/Case Studies/Distributed Job Scheduler|Distributed Job Scheduler]]
+- [[System Design/Case Studies/API Gateway|API Gateway]]
+- [[System Design/Case Studies/Feature Flag Service|Feature Flag Service]]
+- [[System Design/Case Studies/Web Crawler|Web Crawler]]
+- [[System Design/Case Studies/Search Engine|Search Engine]]
+- [[System Design/Case Studies/Collaborative Document Editor|Collaborative Document Editor]]
+- [[System Design/Case Studies/Inventory Reservation System|Inventory Reservation System]]
+- [[System Design/Case Studies/Experimentation Platform|Experimentation Platform]]
+- [[System Design/Case Studies/Ad Click Aggregation|Ad Click Aggregation]]
+- [[System Design/Case Studies/Nearby Friends|Nearby Friends]]
+- [[System Design/Case Studies/Google Maps|Google Maps]]
+- [[System Design/Case Studies/Hotel Reservation System|Hotel Reservation System]]
+- [[System Design/Case Studies/Distributed Email Service|Distributed Email Service]]
+- [[System Design/Case Studies/S3 Object Storage|S3 Object Storage]]
+- [[System Design/Case Studies/Real-Time Gaming Leaderboard|Real-Time Gaming Leaderboard]]
+- [[System Design/Case Studies/Digital Wallet|Digital Wallet]]
+- [[System Design/Case Studies/Stock Exchange|Stock Exchange]]
+- [[System Design/Case Studies/Online Auction|Online Auction]]

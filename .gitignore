@@ -1,0 +1,138 @@
+# ==========================
+# OS Generated Files
+# ==========================
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.Spotlight-V100/
+.Trashes/
+
+# ==========================
+# Editor / IDE
+# ==========================
+.vscode/
+.idea/
+*.iml
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.swp
+*.swo
+*~
+
+# ==========================
+# Logs
+# ==========================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ==========================
+# Environment Files
+# ==========================
+.env
+.env.*
+!.env.example
+!.env.template
+
+# ==========================
+# Dependencies
+# ==========================
+node_modules/
+vendor/
+
+# ==========================
+# Build Output
+# ==========================
+dist/
+build/
+out/
+target/
+bin/
+obj/
+coverage/
+
+# ==========================
+# Temporary Files
+# ==========================
+tmp/
+temp/
+.cache/
+*.tmp
+
+# ==========================
+# Archives
+# ==========================
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+
+# ==========================
+# Runtime
+# ==========================
+*.pid
+*.seed
+
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# ==========================
+# Java
+# ==========================
+*.class
+*.jar
+*.war
+.gradle/
+
+# ==========================
+# JavaScript / TypeScript
+# ==========================
+.next/
+.nuxt/
+.svelte-kit/
+.parcel-cache/
+.eslintcache
+
+# ==========================
+# Go
+# ==========================
+*.test
+coverage.out
+
+# ==========================
+# Rust
+# ==========================
+target/
+Cargo.lock
+
+# Uncomment if building an application:
+#! Cargo.lock
+
+# ==========================
+# Terraform
+# ==========================
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# ==========================
+# Misc
+# ==========================
+*.bak
+*.orig
+*.rej

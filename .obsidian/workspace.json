@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "1d76c55940d2c1e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "25c5f27f9b2be26d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6840c833b8fac594",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design/Case Studies/API Gateway.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "API Gateway"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81d304818aa8982a",
+    "type": "split",
+    "children": [
+      {
+        "id": "74a5597aef84a0c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c292187eda9ddcd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f36f4549518a4578",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f6631536a95b2020",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "844febd425a4b589",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1713135e96c5a8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abc1e261f9489bb9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/Staff Story.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Staff Story"
+            }
+          },
+          {
+            "id": "c710e9169a000e3e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Templates/Staff Story.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Staff Story"
+            }
+          },
+          {
+            "id": "f53bb98e7636ef78",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6ad6a4488a0f6c7c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5168f760c5438cab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/Staff Story.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Staff Story"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6840c833b8fac594",
+  "lastOpenFiles": [
+    "System Design/Case Studies/Index.md",
+    "System Design/Case Studies/API Gateway.md",
+    "References/Staff Engineering Reading Map.md",
+    "Staff Engineering/Interview Prep/Behavioral Interview Matrix.md",
+    "References/System Design Reading Map.md",
+    "System Design/Case Studies/Ad Click Aggregation.md",
+    "References/Technology Reading Map.md",
+    "References/Source Catalog.md",
+    "References/Index.md",
+    "References/Design Patterns Reading Map.md",
+    "System Design/Patterns/Backpressure.md",
+    "Technologies/Common Failure Modes.md",
+    "System Design/Case Studies/Online Auction.md",
+    "System Design/Case Studies/Stock Exchange.md",
+    "System Design/Case Studies/Digital Wallet.md",
+    "System Design/Case Studies/Real-Time Gaming Leaderboard.md",
+    "System Design/Case Studies/S3 Object Storage.md",
+    "System Design/Case Studies/Distributed Email Service.md",
+    "System Design/Case Studies/Hotel Reservation System.md",
+    "System Design/Case Studies/Google Maps.md",
+    "System Design/Case Studies/Nearby Friends.md",
+    "References",
+    "Technologies/Operational Runbook Template.md",
+    "Staff Engineering/Leadership/Conflict Resolution.md",
+    "Technologies/AWS/Cost and Well Architected.md",
+    "Technologies/AWS/Secrets Manager and KMS.md",
+    "Technologies/AWS/EventBridge and Kinesis.md",
+    "Staff Engineering/Strategy",
+    "Staff Engineering/Leadership",
+    "Staff Engineering/Interview Prep",
+    "Staff Engineering/Execution",
+    "Staff Engineering",
+    "Assets",
+    "Indexes",
+    "Templates",
+    "Books/Summaries"
+  ]
+}
