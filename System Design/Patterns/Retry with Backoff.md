@@ -17,7 +17,18 @@ created: 2026-07-15
 
 ## Backoff
 
+- Fixed backoff
+- Linear backoff
+- Exponential backoff
+- Capped exponential backoff
+- Exponential backoff with jitter
+- Capped exponential backoff with jitter
+
 ## Jitter
+
+- Full jitter
+- Equal jitter
+- Decorrelated jitter
 
 ## Idempotency
 
