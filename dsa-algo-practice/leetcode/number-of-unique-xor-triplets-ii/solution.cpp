@@ -1,25 +1,32 @@
 class Solution {
-    static constexpr int MMAX = (1 << 11);
 public:
     int uniqueXorTriplets(vector<int>& nums) {
-        array<bool, MMAX> uniq{};
-        array<bool, MMAX> ans{};
-        for (int i = 0; i < nums.size(); i++) {
-            for (int j = 0; j <= i; j++) {
-                uniq[nums[i] ^ nums[j]] = 1;
+        int maxValue = *max_element(nums.begin(), nums.end());
+
+        int limit = 1;
+        while (limit <= maxValue) {
+            limit <<= 1;
+        }
+
+        vector<bool> pairXor(limit, false);
+        vector<bool> tripletXor(limit, false);
+
+        int n = nums.size();
+
+        for (int i = 0; i < n; ++i) {
+            for (int j = i; j < n; ++j) {
+                pairXor[nums[i] ^ nums[j]] = true;
             }
         }
-        for (int i = 0; i < MMAX; i++) {
-            if (uniq[i]) {
-                for (auto n : nums) {
-                    ans[i ^ n] = true;
+
+        for (int x : nums) {
+            for (int value = 0; value < limit; ++value) {
+                if (pairXor[value]) {
+                    tripletXor[value ^ x] = true;
                 }
             }
         }
-        int val = 0;
-        for (int i = 0; i < MMAX; i++) {
-            val += ans[i];
-        }
-        return val;
-    }   
+
+        return count(tripletXor.begin(), tripletXor.end(), true);
+    }
 };
